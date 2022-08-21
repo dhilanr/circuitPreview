@@ -3,7 +3,7 @@ This tool requires various Python packages including PyLaTeX, Gi, and Evince.  T
 
 It does nothing that a simple bash script couldn't do on its own.  I just added a GUI to experiment with Gtk.  All of the code was hastily written in a single Python file.  A few tester `.m4` files are provided.  The last file, `placeholder.pdf`, is what is rendered in the preview pane until a pass at generation is attempted.
 
-![](circuitMacrosDemo.gif)
+![](demo/circuitMacrosDemo.gif)
 
 **Needed updates:** remove dependencies, do not use shell behind the scenes, file browser / saving options, error previewing via a pop-up dialog box
 
