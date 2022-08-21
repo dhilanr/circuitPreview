@@ -79,7 +79,7 @@ class Paned(Gtk.Window):
         self.scrollRight.add(self.view)
         self.vpaned_right.add1(self.scrollRight)
 
-        label = Gtk.Label(label='Created by Dhilan :)')
+        label = Gtk.Label(label='Created by Dhilan, for Dhilan :)')
         self.vpaned_right.add2(label)
 
     def getText(self):
