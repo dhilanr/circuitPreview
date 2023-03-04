@@ -38,3 +38,9 @@ MacOS).
 ```
 export M4PATH=~/circuit_macros
 ```
+
+---
+
+### Install `Gtk`
+
+Make sure homebrew is up-to-date.  Then, brew install `cairo` or `gtk+3`
